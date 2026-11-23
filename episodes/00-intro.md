@@ -1,5 +1,5 @@
 ---
-title: Copying our Python Template
+title: Placeholder
 teaching: 10
 exercises: 0
 ---

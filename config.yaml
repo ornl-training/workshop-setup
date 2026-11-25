@@ -59,7 +59,7 @@ contact: 'dugganjw@ornl.gov'
 
 # Order of episodes in your lesson
 episodes:
-- 00-intro.md
+- 00-vscode.md
 
 # Information for Learners
 learners: 

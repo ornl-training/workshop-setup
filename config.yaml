@@ -75,6 +75,6 @@ profiles:
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
 
-url: 'https://github.com/ornl-training/workshop-setup'
+url: 'https://ornl-training.github.io/workshop-setup'
 analytics: carpentries
 lang: en
